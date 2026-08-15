@@ -4,7 +4,7 @@
   /* ---------- Configuración editable ---------- */
   var CONFIG = {
     businessName: "MayoristasARG",
-    whatsappNumber: "5493434669310",
+    whatsappNumber: "5493434806883",
     whatsappDefaultMessage: "Hola! Quería hacer una consulta sobre los packs de proveedores de MayoristasARG.",
     transfer: {
       alias: "Valen.guarascio",
